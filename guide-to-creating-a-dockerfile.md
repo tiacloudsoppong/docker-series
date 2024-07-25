@@ -96,6 +96,11 @@ docker build -t python-app .
 ![image](https://github.com/user-attachments/assets/e014e9e8-6788-4aae-b391-326d4e92ca22)
 
 
+
+https://github.com/user-attachments/assets/3c3cb64c-3f2f-4ffb-bc5d-5c7234aabc13
+
+
+
 #### Step 8: Run the Docker Container
 Run a container using the image you just created.
 

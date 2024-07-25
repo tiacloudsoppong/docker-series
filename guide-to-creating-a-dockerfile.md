@@ -90,14 +90,14 @@ flask
 Run the following command to build the Docker image. Make sure you're in the directory containing your Dockerfile.
 
 ```sh
-docker build -t my-python-app .
+docker build -t python-app .
 ```
 
 #### Step 8: Run the Docker Container
 Run a container using the image you just created.
 
 ```sh
-docker run -p 4000:80 my-python-app
+docker run -p 4000:80 python-app
 ```
 
 #### Step 9: Access Your Application

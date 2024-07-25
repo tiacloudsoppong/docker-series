@@ -108,6 +108,8 @@ Run a container using the image you just created.
 docker run -p 4000:80 python-app
 ```
 
+![image](https://github.com/user-attachments/assets/461d9697-21f7-48cf-85c8-ac15ecc35345)
+
 #### Step 9: Access Your Application
 Open your web browser and go to `http://localhost:4000`. You should see "Hello, Docker!" displayed.
 

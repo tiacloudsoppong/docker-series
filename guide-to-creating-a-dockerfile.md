@@ -5,8 +5,7 @@ Sure! Here's a simple guide on creating a Dockerfile and building an image step-
 ### Step-by-Step Guide to Creating a Dockerfile and Building an Image
 
 #### Step 1: Install Docker
-Before you begin, ensure that Docker is installed on your machine. You can download and install Docker from the [official Docker website](https://www.docker.com/products/docker-desktop).
-
+Before you begin, ensure that you have signed up for a plan on Tiaspaces
 #### Step 2: Create a Project Directory
 Create a new directory for your project.
 

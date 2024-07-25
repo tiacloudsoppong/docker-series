@@ -29,6 +29,8 @@ Inside your project directory, create a file named `Dockerfile` with no extensio
 ```sh
 touch Dockerfile
 ```
+![image](https://github.com/user-attachments/assets/bf5410c0-cb1d-40f7-ac7b-0bf324003c38)
+
 
 #### Step 4: Edit the Dockerfile
 Open the `Dockerfile` in your preferred text editor and add the following content. This example uses a simple Python application.
@@ -52,6 +54,9 @@ EXPOSE 80
 # Run app.py when the container launches
 CMD ["python", "app.py"]
 ```
+
+![image](https://github.com/user-attachments/assets/9abc6d4f-bd57-44d9-8cc0-e0ab489f3ca7)
+
 
 #### Step 5: Create a Python Application
 Create a simple Python application. For example, create a file named `app.py`.

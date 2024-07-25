@@ -9,10 +9,19 @@ Before you begin, ensure that you have signed up for a plan on Tiaspaces
 #### Step 2: Create a Project Directory
 Create a new directory for your project.
 
+
+
+
 ```sh
-mkdir my-docker-project
-cd my-docker-project
+mkdir docker-project
+cd docker-project
 ```
+![image](https://github.com/user-attachments/assets/27b67523-6cb7-4018-8d68-a0745206f505)
+
+
+![image](https://github.com/user-attachments/assets/9089a991-aa14-469b-9504-dc895bd1987f)
+
+
 
 #### Step 3: Create a Dockerfile
 Inside your project directory, create a file named `Dockerfile` with no extension.

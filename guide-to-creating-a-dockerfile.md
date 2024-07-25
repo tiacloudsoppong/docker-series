@@ -74,12 +74,17 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=80)
 ```
 
+![image](https://github.com/user-attachments/assets/8c59d167-cfaf-4d43-9d9d-cf194e6e00f9)
+
 #### Step 6: Create a Requirements File
 Create a `requirements.txt` file to list the Python dependencies.
 
 ```sh
 flask
 ```
+
+![image](https://github.com/user-attachments/assets/13406b9c-6f01-4188-8118-d49bbc3ea564)
+
 
 #### Step 7: Build the Docker Image
 Run the following command to build the Docker image. Make sure you're in the directory containing your Dockerfile.
